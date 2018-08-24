@@ -32,6 +32,6 @@ Coming soon!
 
 Coming soon!
 
-## Contribution Template
+### Contribution Template
 
 Coming soon!
