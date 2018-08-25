@@ -31,7 +31,3 @@ Coming soon!
 ### Issue Template(s)
 
 Coming soon!
-
-### Contribution Template
-
-Coming soon!
