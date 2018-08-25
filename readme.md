@@ -36,7 +36,7 @@ Issue templates benefit developers and any other team members who may be perform
 
 These markdown files prepopulate new Issues filed on github. When a team member files an issue, they are given different prompts based on what type of issue they are creating. For example, a Bug issue template may include steps to reproduce, and a CMS template may include optional vs. required fields.
 
-You can create as many issue templates as you want. They live in the `./github/ISSUE_TEMPLATE` directory.
+You can create as many issue templates as you want. They live in the `/.github/ISSUE_TEMPLATE` directory.
 
 Each issue template needs to start with this markup:
 
