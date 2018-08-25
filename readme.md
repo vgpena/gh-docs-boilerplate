@@ -49,3 +49,8 @@ about: Further description of this category.
 ```
 
 This frontmatter will be used to populate the Issue Picker UI in Github.
+
+## Other things to explore
+
+- Steve Mao has a huge repository of issue templates [here](https://github.com/stevemao/github-issue-templates)
+- This repo contains the essentials for running any project, but if your project is community-based, you should leverage additional documentation such as a [code of conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/), [changelong](https://github.com/olivierlacan/keep-a-changelog), and [contribution guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
