@@ -26,7 +26,7 @@ Every project should have a Readme (usually a Markdown file). It should describe
 
 ### Pull Request Template
 
-Coming soon!
+This Markdown file prepopulates new Pull Requests. Using it as a prompt helps team members write infomative pull requests, makes code easier to test, and leaves a paper trail of code and decisions.
 
 ### Issue Template(s)
 
