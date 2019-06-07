@@ -4,7 +4,7 @@ This repo is a template for projects on github. Specifically, it is an example o
 
 ## Installation
 
-If you are starting a project completely from scratch, clone this repo right into that folder. Otherwise, copy files into your project as needed.
+If you are starting a project from scratch and will host the code on Github, hit the "Use this template" button above the code to get started. If you will host elsewhere, clone this repo and start your project from there.
 
 ## Usage
 
